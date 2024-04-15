@@ -1,2 +1,6 @@
+The Philippines has been grappling with a convoluted and inefficient national identification (ID) system for a long time now. Obtaining valid IDs has become a paradoxical challenge, where citizens are often required to bring or present valid IDs to the very application process for valid IDs, creating a cycle of bureaucratic frustration and exclusion. Some of our citizens face significant barriers when trying to access application processes. The primary issue is the lack of adequate guidance provided by the handlers to applicants. Furthermore, the available information is often confusing and contradictory. The websites used for applications are outdated and slow, making the process frustrating. Additionally, the steps involved are overly complicated, time-consuming, and costly, especially when considering transportation expenses due to multiple trips. Moreover, some identification requirements appear to be redundant. We want to address these issues by introducing one place, a single application, that would serve as a one stop shop for all IDs that will be easy to access, allowing Filipinos to apply for and inquire about, as well as maintain their IDs in a secured and updated platform.
+
+
 Prototype figma link: https://www.figma.com/file/7OYNLVOHBJ8SzEH6Cd6mxw/STHCIUX?type=design&node-id=230%3A5276&mode=design&t=aOJwjIym2iPbrJg0-1
-This is a collaborative project
+This is a collaborative project of STHCIUX course
+
